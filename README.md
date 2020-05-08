@@ -2,7 +2,7 @@
 
 [referred blog](https://narito.ninja/blog/detail/36/)
 
-![]()
+![inlineformset-plus-add-file-func](inlineformset-plus-add-file-func.gif)
 
 > ## models.py
 ``` python
